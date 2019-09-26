@@ -5,7 +5,5 @@
 图片均注明来源，版权问题请发issues
 
 ## 目前食用方法
-绿色的download下载下来全部图片，并删除所有.url文件（.url文件仅用作保留原地址）  
-
-## 未来可能的食用方法
-给大家一个PHP文件，大家可以随机访问其中任何一张图片
+1 绿色的download下载下来全部图片，并删除所有.url文件（.url文件仅用作保留原地址）  
+2 使用随机PHP程序[link](https://github.com/jyeric/acg-random-pictures)
