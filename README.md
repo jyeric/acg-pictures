@@ -1,3 +1,6 @@
+Due to the policy of pixiv, this repository will be archived and will no longer update.
+由于pixiv的TOS，本仓库将无限期停更
+
 # acg-pictures-1
 横屏桌面二次元壁纸
 
